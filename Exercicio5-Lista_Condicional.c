@@ -17,27 +17,27 @@ int main()
 	if(a < b && a < c)
 	{
 		printf("\nO menor eh A"); 
-		}
+	}
 	else if (b <= a && b < c) 
 	{
 		printf("\nO menor eh B"); 
-		}
+	}
 	else 
 	{
 		printf("\nO menor eh C"); 
-		}
+	}
 	if (a > b && a > c)
 	{
 		printf("\nO maior eh A"); 
-		}
+	}
 	else if ( b > a && b > c)
 	{
 		printf("\nO maior eh B"); 
-		}
+	}
 	else 
 	{
 		printf("\nO maior eh C"); 
-		}
+	}
 
 	return 0; 
 }
