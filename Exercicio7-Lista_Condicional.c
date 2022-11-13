@@ -11,8 +11,8 @@ d) Acima de 30 �obeso� */
 
 #include <stdio.h>
 
-int main(){
-
+int main()
+{
 	float altura, peso;
 
 	printf("Digite a sua altura: ");
