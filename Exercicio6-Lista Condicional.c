@@ -12,10 +12,11 @@ int main()
 	if (valor%2==0)
 	{
 		printf("%d", valor + 5); 
-		}
+	}
 	else 
 	{
 		printf("%d", valor + 8); 
-		}
+	}
 
-	return 0; }
+	return 0; 
+}
