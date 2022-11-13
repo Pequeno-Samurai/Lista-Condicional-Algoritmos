@@ -1,8 +1,8 @@
 // Fa�a um algoritmo que, dados 3 n�meros inteiros A, B e C, apresente qual dos 3 � o maior e qual � o menor.
 #include <stdio.h>
 
-int main(){
-
+int main()
+{
 	int a, b, c;
 
 	printf("Digite o valor de A: ");
@@ -39,4 +39,5 @@ int main(){
 		printf("\nO maior eh C"); 
 		}
 
-	return 0; }
+	return 0; 
+}
