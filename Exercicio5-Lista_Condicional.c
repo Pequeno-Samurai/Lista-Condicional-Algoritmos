@@ -38,6 +38,5 @@ int main()
 	{
 		printf("\nO maior eh C"); 
 	}
-
 	return 0; 
 }
