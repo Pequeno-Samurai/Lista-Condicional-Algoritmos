@@ -26,18 +26,18 @@ int main(){
 	if ( peso / (altura * altura) <18.5)
 	{
 		printf("\nVoce esta abaixo do peso !"); 
-		}
-		else if ( peso / (altura * altura)>18.5 && peso / (altura * altura)<25)
-		{
-			printf("Seu peso esta normal"); 
-			}
-			else if (peso / (altura * altura)>25 && peso / (altura * altura)< 30)
-			{
-				printf("Voce esta acima do peso"); 
-				}
-				else 
-				{
-					printf("Voce esta obeso"); 
-					}
-
-	return 0; }
+	}
+	else if ( peso / (altura * altura)>18.5 && peso / (altura * altura)<25)
+	{
+		printf("Seu peso esta normal"); 
+	}
+	else if (peso / (altura * altura)>25 && peso / (altura * altura)< 30)
+	{
+		printf("Voce esta acima do peso"); 
+	}
+	else 
+	{
+		printf("Voce esta obeso"); 
+	}
+	return 0; 
+}
